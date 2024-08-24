@@ -1,0 +1,1 @@
+Developed a voice-enabled toddler engagement system using HTML, CSS, and JavaScript. Utilized AI and NLP for interactive experiences, integrating APIs like Unsplash for images and Google Text-to-Speech (TTS) for audio responses.
